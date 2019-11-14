@@ -2,7 +2,7 @@
   "name": "jepark-emoji-search",
   "version": "0.1.0",
   "license": "MIT",
-  "homepage": "http://ahfarmer.github.io/emoji-search",
+  "homepage": "https://jepark-emoji-search.netlify.com/",
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "prettier": "^1.17.1",
